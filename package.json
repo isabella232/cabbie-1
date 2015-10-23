@@ -1,8 +1,11 @@
 {
-  "name": "cabbie",
-  "version": "1.0.0",
+  "name": "medallia-cabbie",
+  "version": "1.0.1",
   "description": "A webdriver client",
   "keywords": [],
+  "publishConfig": {
+    "registry": "https://npm.medallia.com/"
+  },
   "dependencies": {
     "ms": "^0.7.0",
     "promise": "^6.1.0",

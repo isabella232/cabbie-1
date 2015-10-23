@@ -9,7 +9,19 @@ lib-cov
 pids
 logs
 results
+
+// npm
 node_modules
+npm-debug.log
+
+// build
 /coverage
 /docs
+
+// idea
 .idea
+*.iml
+
+//other
+.DS_Store
+
